@@ -396,7 +396,6 @@ i{
 .aboutcon{
     padding: 30px;
     padding-left: none;
-    height: 600px;
    max-width: 700px;
     color: #000;
     /* background:linear-gradient(143deg, rgba(249, 87, 114, 0.661), rgb(60, 38, 2)); */
@@ -419,7 +418,7 @@ i{
     list-style-type: lower-roman;
 }
 .aboutcon button{
-    margin-top: 30px;
+    margin-top: 20px;
     margin-left: 260px;
     color: #fff;
     width: 110px;
@@ -486,7 +485,7 @@ i{
   max-width: 850px;
   width: 100%;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   border-radius: 12px;
 }
 .contact-img{
@@ -500,7 +499,7 @@ i{
 
 }
 .form-container{
-  height:400px ;
+ 
   margin-left: 20px;
   display: flex;
   flex-direction: column;
